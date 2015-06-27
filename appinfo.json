@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Technology",
+    "longName": "Tally Counter",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tally_bw.png",
+                "menuIcon": true,
+                "name": "bw_tally",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Drink Counter",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "703b16db-2e94-4b39-83ea-3f269a254235",
+    "versionLabel": "0.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
